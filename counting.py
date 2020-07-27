@@ -5,7 +5,8 @@
 # Description: 
 # This program uses a TensorFlow-trained classifier to perform object detection.
 # It use counting function.
-# model and label map use form https://github.com/tensorflow/models
+# model use form https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
+# label map use form https://github.com/tensorflow/models
 # frame of the video.
 
 # Import packages
