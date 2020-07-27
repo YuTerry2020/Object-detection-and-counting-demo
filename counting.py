@@ -1,3 +1,13 @@
+######## Object Detection and Counting function #########
+#
+# Author: Teng Yang Yu
+# Date: 2020/07/17
+# Description: 
+# This program uses a TensorFlow-trained classifier to perform object detection.
+# It use counting function.
+# model and label map use form https://github.com/tensorflow/models
+# frame of the video.
+
 # Import packages
 import os
 import cv2
