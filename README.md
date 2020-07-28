@@ -9,7 +9,7 @@ sample combine Tensorflow detection function and counting function
 * openCV
 * labelImg
 ## File explain
-* counting.py: It has tensorflow object detection class ,mqtt funciton and flask framework
+* counting.py: It has tensorflow object detection, counting, text function 
 * visualization_utils_count.py: count function
 * model : faster_rcnn_inception_v2_coco_2018_01_28
 ## How to work
